@@ -1,6 +1,7 @@
 # WEB2-JavaScript (LifeCoding)
 
 생활코딩 유튜브에서 배우는 자바스크립트 기초를 다루기 위한 공부
+유튜브 링크 : https://www.youtube.com/watch?v=dPRtcRwKo-Y&list=PLuHgQVnccGMBB348PWRN0fREzYcYgFybf
 
 2021.12.23(목)
 1. 수업소개 (완료)
