@@ -1,1 +1,2 @@
-# WEB2-JavaScript-Life-Coding-
+# WEB2-JavaScript (LifeCoding)
+
